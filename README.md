@@ -2,7 +2,7 @@
 
 A fully responsive website for a fictional food company.
 
-## Getting Started
+## preview
 ![](preview.gif)
 
 ## built with
