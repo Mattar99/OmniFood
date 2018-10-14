@@ -2,8 +2,8 @@
 
 A fully responsive website for a fictional food company.
 
-## preview
-![](preview.gif)
+## live preview
+https://mattar99.github.io/OmniFood/
 
 ## built with
 -HTML5
